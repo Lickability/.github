@@ -2,7 +2,7 @@
 name: Bug
 about: Create a report to help us improve
 title: ''
-labels: bug
+labels: "\U0001F41B Bug, Bug, bug"
 assignees: ''
 
 ---
@@ -15,9 +15,9 @@ assignees: ''
 
 ## Steps to Reproduce the Problem
 
-  1.
+1.
 
 ## Specifications
 
-  - Version:
-  - Platform:
+- Version:
+- Platform:
