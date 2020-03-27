@@ -2,7 +2,7 @@
 name: Bug
 about: Create a report to help us improve
 title: ''
-labels: "\U0001F41B Bug, Bug, bug"
+labels: bug
 assignees: ''
 
 ---
