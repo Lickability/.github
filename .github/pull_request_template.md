@@ -2,7 +2,7 @@ Progress on #
 
 ## What it Does
 
-## How to Test
+## How I Tested
 
 ## Notes
 
