@@ -2,7 +2,7 @@
 name: Engineering Task
 about: Describes the work for completing an engineering task
 title: ''
-labels: '🧹 Cleanup'
+labels: '🧹 Engineering Task'
 assignees: ''
 
 ---
